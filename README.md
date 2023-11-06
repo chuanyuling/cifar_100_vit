@@ -88,7 +88,6 @@ This project is open source and available under the [MIT License](LICENSE.md).
 
 - The creators of the Vision Transformer model.
 - PyTorch team for providing an excellent deep learning framework.
+```
 
-```
 Remember to replace `https://github.com/your-username/my_project.git` with the actual URL of your GitHub repository and fill in any specific details about your project's setup, configuration, or usage that other users should be aware of. This `README.md` provides a comprehensive guide to your project and explains each part in a detailed manner while also being adaptable to the specifics of your project.
-```
